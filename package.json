@@ -1,0 +1,25 @@
+{
+  "name": "wowhead",
+  "version": "0.0.1",
+  "description": "A node module that gathers information from Wowhead",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jirwin/node-wowhead.git"
+  },
+  "keywords": [
+    "wowhead",
+    "hearthstone",
+    "wow",
+    "warcraft"
+  ],
+  "author": "Justin Gallardo <justin.gallardo@gmail.com>",
+  "license": "Apache v2",
+  "bugs": {
+    "url": "https://github.com/jirwin/node-wowhead/issues"
+  },
+  "dependencies": {
+    "request": "~2.34.0",
+    "async": "~0.7.0"
+  }
+}
